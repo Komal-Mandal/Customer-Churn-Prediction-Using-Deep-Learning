@@ -119,8 +119,7 @@ This project demonstrates the basics of building a deep learning model to predic
 
 ## Image
 
-<img src= "(![alt text](<churnk prediction.webp>))"
-
+<img src= "https://files.oaiusercontent.com/file-NNQqgjaxNWeww1VlV0wtgUsI?se=2024-11-14T16%3A44%3A40Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D93c544bd-5fc2-4976-bf27-97d57045922a.webp&sig=ju/VtNmAtp4jVqIjvuo695qjWWt%2B1iw0Tbcw/%2BEMS9g%3D">
 
 
 ## Acknowledgements
