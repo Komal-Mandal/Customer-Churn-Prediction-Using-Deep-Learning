@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Using-Deep-Learning
 
 
-# Churn Prediction Using Deep Learning
+
 
 This project is a hands-on learning exercise to predict customer churn using deep learning with TensorFlow and Keras. It was developed on Kaggle to understand how to work with artificial neural networks (ANNs), specifically using the Sequential model in Keras.
 ## Documentation
@@ -117,9 +117,6 @@ Conclusion
 This project demonstrates the basics of building a deep learning model to predict customer churn using Keras and TensorFlow. It provides insights into data preprocessing, neural network design, and model evaluation metrics. This project can be extended with additional data sources or more complex architectures for improved performance.
 
 
-## Image
-
-<img src= "https://files.oaiusercontent.com/file-NNQqgjaxNWeww1VlV0wtgUsI?se=2024-11-14T16%3A44%3A40Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D93c544bd-5fc2-4976-bf27-97d57045922a.webp&sig=ju/VtNmAtp4jVqIjvuo695qjWWt%2B1iw0Tbcw/%2BEMS9g%3D">
 
 
 ## Acknowledgements
