@@ -35,7 +35,8 @@ README.md:Project documentation.
 
 These libraries provide the tools to build, train, and evaluate our deep learning model.
 
-![Screenshot 2024-11-15 215857](https://github.com/user-attachments/assets/31aafb1c-a93c-442f-971a-cb7ddee9650b)
+![Screenshot 2024-11-15 215857](https://github.com/user-attachments/assets/460d068c-4c6f-4d07-a3e6-b7b403e05a08)
+
 
 1.tensorflow: The main library for deep learning, with tools for creating and training neural networks.
 
@@ -56,7 +57,8 @@ These libraries provide the tools to build, train, and evaluate our deep learnin
 
 Before training a model, we need to clean and prepare the data to make it suitable for learning.
 
-<img src="C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 215913.png">
+![Screenshot 2024-11-15 215913](https://github.com/user-attachments/assets/56c084b6-4aa8-47e4-b27b-1b937e8bd7ab)
+
 
 1.StandardScaler: A tool that adjusts all features (columns) to have a mean of 0 and a standard deviation of 1, which helps the model learn more efficiently.
 
@@ -71,7 +73,7 @@ Think of this step as converting all your data points to a uniform scale, so no 
 
 We use the Sequential API to stack layers one by one to build our neural network.
 
-<img src = "C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 215958.png">
+![Screenshot 2024-11-15 215958](https://github.com/user-attachments/assets/976cec6e-5f9f-4299-a5a8-fd8dda50c2ca)
 
 1.ense(64, activation='relu', input_dim=X_train.shape[1]):
 
@@ -99,7 +101,8 @@ We use the Sequential API to stack layers one by one to build our neural network
 
 This step sets up the learning process for the model.
 
-<img src="C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 220015.png">
+![Screenshot 2024-11-15 220015](https://github.com/user-attachments/assets/eab6e649-a215-4757-a42e-396f7321e3c5)
+
 
 1.optimizer='adam': Adam is an efficient algorithm for updating weights during training. It adjusts the learning rate automatically.
 
@@ -111,7 +114,8 @@ This step sets up the learning process for the model.
 
 This is where the model learns by adjusting weights based on the data.
 
-<img src="C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 220033.png">
+![Screenshot 2024-11-15 220033](https://github.com/user-attachments/assets/237da485-91c0-40e0-9571-7cae290fb5ef)
+
 
 1.X_train_scaled, y_train: The training data (features and labels) is fed into the model.
 
@@ -125,7 +129,8 @@ This is where the model learns by adjusting weights based on the data.
 
 This step helps us understand how well the model performed over time.
 
-<img src = "C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 220048.png">
+![Screenshot 2024-11-15 220048](https://github.com/user-attachments/assets/99627de5-5910-443c-bda5-7848ce49cc72)
+
 
 1.history.history['accuracy']: Tracks the accuracy of the model on training data over each epoch.
 
