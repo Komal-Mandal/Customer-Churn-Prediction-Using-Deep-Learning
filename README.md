@@ -34,9 +34,9 @@ README.md:Project documentation.
 1. Importing Libraries
 
 These libraries provide the tools to build, train, and evaluate our deep learning model.
-<p align="center">
-<img src="C:\Users\Komal\Pictures\Screenshots\Screenshot 2024-11-15 215857.png" width="400" height="300">
-</p>
+
+![Screenshot 2024-11-15 215857](https://github.com/user-attachments/assets/31aafb1c-a93c-442f-971a-cb7ddee9650b)
+
 1.tensorflow: The main library for deep learning, with tools for creating and training neural networks.
 
 2.Sequential: A simple way to build models layer by layer.
