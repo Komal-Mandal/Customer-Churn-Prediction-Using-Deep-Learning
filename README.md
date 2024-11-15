@@ -31,7 +31,7 @@ README.md:Project documentation.
 
 # 💻 Key Code Walkthrough
 
-1. Importing Libraries
+# Importing Libraries
 
 These libraries provide the tools to build, train, and evaluate our deep learning model.
 
@@ -53,7 +53,7 @@ These libraries provide the tools to build, train, and evaluate our deep learnin
    7.matplotlib.pyplot: Creates graphs to visualize data and model performance.
 
 
-2. Data Preprocessing
+# Data Preprocessing
 
 Before training a model, we need to clean and prepare the data to make it suitable for learning.
 
@@ -73,7 +73,7 @@ Before training a model, we need to clean and prepare the data to make it suitab
    numbers.
 
 
-3. Building the Neural Network
+# Building the Neural Network
 
 We use the Sequential API to stack layers one by one to build our neural network.
 
@@ -103,7 +103,7 @@ We use the Sequential API to stack layers one by one to build our neural network
 
    4.2 activation='sigmoid': Squashes the output to a range between 0 and 1, representing probabilities.
 
-4. Compiling the Model
+# Compiling the Model
 
 This step sets up the learning process for the model.
 
@@ -118,7 +118,7 @@ This step sets up the learning process for the model.
 
    3.metrics=['accuracy']: Tracks accuracy during training and evaluation, so we know how well the model is doing.
 
-5. Training the Model
+# Training the Model
 
 This is where the model learns by adjusting weights based on the data.
 
@@ -133,7 +133,7 @@ This is where the model learns by adjusting weights based on the data.
 
    4.batch_size=32: The data is divided into smaller groups (batches) of 32 samples each for efficient processing.
 
-6. Visualizing Training Performance
+# Visualizing Training Performance
 
 This step helps us understand how well the model performed over time.
 
